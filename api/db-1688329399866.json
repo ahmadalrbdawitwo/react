@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "img": "https://images.unsplash.com/photo-1603320410149-db26b12d5c2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "img": "https://images.unsplash.com/photo-1603320410149-db26b12d5c2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "img": "https://images.unsplash.com/photo-1603320410149-db26b12d5c2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "img": "https://images.unsplash.com/photo-1603320410149-db26b12d5c2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "img": "https://images.unsplash.com/photo-1603320410149-db26b12d5c2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    }
+  ],
+  "disebar": [
+    {
+      "id": 1,
+      "btnName": "jacket and coats",
+      "dir": "/"
+    },
+    {
+      "id": 2,
+      "btnName": "t-shirt and vests",
+      "dir": "/"
+    },
+    {
+      "id": 3,
+      "btnName": "shirts",
+      "dir": "/"
+    },
+    {
+      "id": 4,
+      "btnName": "blazers and suits",
+      "dir": "/"
+    },
+    {
+      "id": 5,
+      "btnName": "jeans",
+      "dir": "/"
+    },
+    {
+      "id": 6,
+      "btnName": "trousers",
+      "dir": "/"
+    },
+    {
+      "id": 7,
+      "btnName": "short",
+      "dir": "/"
+    },
+    {
+      "id": 8,
+      "btnName": "underwear",
+      "dir": "/"
+    }
+  ],
+  "mainfood": [
+    {
+      "id": 1,
+      "src": "main_one.jpg",
+      "type": "Lunch"
+    },
+    {
+      "id": 2,
+      "src": "main-two.jpg",
+      "type": "BreakFast"
+    },
+    {
+      "id": 3,
+      "src": "main_three.jpg",
+      "type": "Dinner"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "img": "https://images.unsplash.com/photo-1603320410149-db26b12d5c2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "img": "https://images.unsplash.com/photo-1603320410149-db26b12d5c2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "img": "https://images.unsplash.com/photo-1603320410149-db26b12d5c2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    }
+  ]
+}

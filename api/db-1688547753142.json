@@ -1,0 +1,348 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "t-shirt",
+      "img": "https://images.unsplash.com/photo-1603320410149-db26b12d5c2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "jacket",
+      "img": "jacket and coats/1.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "jacket",
+      "img": "jacket and coats/2.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "jacket",
+      "img": "jacket and coats/3.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "jacket",
+      "img": "jacket and coats/4.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "jens",
+      "img": "jens/1.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "jens",
+      "img": "jens/2.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "jens",
+      "img": "jens/3.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "jens",
+      "img": "jens/4.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "jens",
+      "img": "jens/5.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "jens",
+      "img": "jens/6.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "suits",
+      "img": "suits/1.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "suits",
+      "img": "suits/2.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "suits",
+      "img": "suits/3.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "suits",
+      "img": "suits/4.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "suits",
+      "img": "suits/5.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "suits",
+      "img": "suits/6.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "t-shirt",
+      "img": "suits/7.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "suits",
+      "img": "suits/8.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "suits",
+      "img": "suits/10.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "suits",
+      "img": "suits/11.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "suits",
+      "img": "suits/12.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "suits",
+      "img": "suits/13.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "trousers",
+      "img": "trousers/1.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "trousers",
+      "img": "trousers/2.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "trousers",
+      "img": "trousers/3.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "t-shirt",
+      "img": "trousers/4.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "t-shirt",
+      "img": "t-shirt/1.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "t-shirt",
+      "img": "t-shirt/2.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "t-shirt",
+      "img": "t-shirt/3.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "t-shirt",
+      "img": "t-shirt/4.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "t-shirt",
+      "img": "t-shirt/5.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "t-shirt",
+      "img": "t-shirt/6.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "t-shirt",
+      "img": "t-shirt/7.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "t-shirt",
+      "img": "t-shirt/8.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    },
+    {
+      "id": 1,
+      "itemid": 4,
+      "type": "t-shirt",
+      "img": "t-shirt/9.jpg",
+      "dec": "Slub jersey T-shirt",
+      "price": "$20.70"
+    }
+  ],
+  "disebar": [
+    {
+      "id": 1,
+      "type": "jacket",
+      "btnName": "jacket and coats",
+      "dir": "/"
+    },
+    {
+      "id": 2,
+      "type": "t-shirt",
+      "btnName": "t-shirt and vests",
+      "dir": "/"
+    },
+    {
+      "id": 3,
+      "type": "t-shirt",
+      "btnName": "shirts",
+      "dir": "/"
+    },
+    {
+      "id": 4,
+      "type": "suits",
+      "btnName": "blazers and suits",
+      "dir": "/"
+    },
+    {
+      "id": 5,
+      "type": "jens",
+      "btnName": "jeans",
+      "dir": "/"
+    },
+    {
+      "id": 6,
+      "type": "trousers",
+      "btnName": "trousers",
+      "dir": "/"
+    }
+  ],
+  "maintype": [
+    {
+      "id": 1,
+      "src": "main/1.jpg",
+      "type": "SUMMER"
+    },
+    {
+      "id": 2,
+      "src": "main/2.jpg",
+      "type": "WINTER"
+    },
+    {
+      "id": 3,
+      "src": "main/3.jpg",
+      "type": "SUMMER"
+    }
+  ],
+  "cart": []
+}

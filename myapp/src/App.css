@@ -1,0 +1,112 @@
+
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.b{
+padding-top: 300px;
+    width:100px;
+    height: 100px;
+    background-color: red;
+}
+
+
+.color-section{
+    background-color:#eff7fa;
+    }
+    
+    .font{
+        font-family: 'Almarai', sans-serif;
+    }
+    
+    .color-body{
+        background-color: #f8f8f8;
+    
+    }
+    .color{
+        color: #b45b35;
+    }
+    .bttn{
+        color: #b45b35;
+        border: solid 1px #b45b35;
+        font-family: Almarai;
+        font-weight: bold;
+        transition: 0.5s;
+        border-radius: 11px;
+    }
+    .bttn:hover{
+        color: white;
+        font-family: Almarai;
+        font-size: 18px;
+        font-weight: bold;
+        border-radius: 11px;
+        background-color: #b45b35;
+    }
+    .rectangle{
+        min-height: 400px;
+        border-radius: 15px;
+        background-color: #ffffff;
+        box-shadow:1px 4px 4px 1px rgb(85 ,85,85,0.25);
+    }
+    .img-avatar{
+        height: 60px;
+        width: 60px;
+        border-radius: 50%;
+    }
+ 
+
+
+    /* join us*/
+  
+    .line{
+        width:2px; 
+        height:70px;
+        background-color:silver;
+    }
+    /* join us*/
+
+    .box{
+        border: 2px solid silver;
+        border-radius: 10px;
+        position: relative;
+        overflow: hidden;
+    }
+    .box::before {
+        content: attr(data-work);
+        position: absolute;
+        background-color: #ffc10760;
+        width: 100% ;
+        height: 100% ;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-weight: bold;
+        color: white;
+        transition: 0.3s;
+        font-size: 1.5rem;
+        transform: translateX(calc(-100% - 5px));
+      }
+      .box:hover::before {
+        transform: translateX(0);
+      }
+      .size-logo{
+        font-size: 500px;
+      }
+      .buttonmargin{
+            margin-bottom: 40px;
+      }
+      .curser{
+        cursor: pointer;
+      }
+      .cart{
+        width: 80vw;
+        left: 10vw;
+        top: 5vw;
+        background-color: #ffffff;
+      }
+       .colorshado{
+        background-color: #0000002a;
+       }
